@@ -3,3 +3,10 @@ New music downloader app
 child-friendly linux
 Write a compiler in a week
 Course selection Tool
+À custom rom for Android 
+An operating system 
+3-d checkers/tic-tac-toe 
+Mobile ad blocker 
+Complier 
+Interactive calendar (irl)  that syncs with your account
+Programmable mirror https://github.com/HannahMitt/HomeMirror
